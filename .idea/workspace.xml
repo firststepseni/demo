@@ -19,7 +19,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ENI/WebstormProjects/guess number",
+    "last_opened_file_path": "C:/Users/ENI/Desktop/complete-javascript-course-master (1)/complete-javascript-course-master/05-Guess-My-Number/final/script.js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685016392514</updated>
       <workItem from="1685016393863" duration="1910000" />
+      <workItem from="1685018395028" duration="2279000" />
+      <workItem from="1685021874559" duration="1518000" />
     </task>
     <servers />
   </component>
