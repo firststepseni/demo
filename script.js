@@ -39,3 +39,4 @@ document.querySelector('.check').addEventListener('click'),function ( )
 
 
 
+ssh-keygen -t ed25519 -C "your_email@example.com"
